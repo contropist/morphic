@@ -139,7 +139,7 @@ Visit http://localhost:3000 in your browser.
 
 ## 🌐 Deploy
 
-Host your own live version of Morphic with Vercel or Cloudflare Pages.
+Host your own live version of Morphic with Vercel, Cloudflare Pages, or Docker.
 
 ### Vercel
 
